@@ -1,0 +1,43 @@
+.container{
+    background-color: white;
+    width: 100%;
+    margin-bottom: 90px;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+}
+body{
+    width: 30%;
+    background-color: rgb(179, 130, 216);
+    margin: auto;
+    padding-top: 100px;
+   
+}
+input{
+    border: none;
+    padding: 10px;
+    
+
+}
+input:focus{
+    outline: none;
+  border-color: 2px crimson;
+}
+
+#btn{
+margin-top: 20px;
+margin-bottom: 20px;
+width: 50%;
+height: 30px;
+border: none;
+background-color: coral;
+border-radius: 10px;
+color: white;
+}
+#title{
+    padding-top: 20px;
+}
+#icon{
+   font-size: 50px;
+}
+
